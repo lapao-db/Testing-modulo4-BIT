@@ -63,3 +63,13 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 - **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/laura-daza-buitrago-desarrollo-web/) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+## Taller
+
+1. Creacion del repositorio
+2. Ejecutar el servidor
+    <img src="./imgs/instalacion npm.JPG">
+    <img src="./imgs/ejecuta-servidor.JPG">
+3. Prueba ejemplo: Pasan todos los casos de pruebas
+    <img src="./imgs/respuesta-pass-prueba-unitaria.JPG"> 
+    

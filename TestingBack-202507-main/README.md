@@ -66,14 +66,14 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 
 ## Taller
 
-1. Creacion del repositorio
-2. Ejecutar el servidor
+**1. Creacion del repositorio**
+**2. Ejecutar el servidor**
     <img src="./imgs/instalacion npm.JPG">
     <img src="./imgs/ejecuta-servidor.JPG">
-3. Prueba ejemplo: Pasan todos los casos de pruebas
+**3. Prueba ejemplo: Pasan todos los casos de pruebas**
     <img src="./imgs/respuesta-pass-prueba-unitaria.JPG">
-4. Prueba ejemplo: Falla caso 1
+**4. Prueba ejemplo: Falla caso 1**
     <img src="./imgs/test-fail-caso.JPG">
-5. Prueba funcionalidad inicio sesion: Pasa todos los casos
+**5. Prueba funcionalidad inicio sesion: Pasa todos los casos**
     <img src="./imgs/prueba-pass-iniciarSesion.JPG">
     

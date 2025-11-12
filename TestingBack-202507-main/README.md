@@ -71,5 +71,9 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
     <img src="./imgs/instalacion npm.JPG">
     <img src="./imgs/ejecuta-servidor.JPG">
 3. Prueba ejemplo: Pasan todos los casos de pruebas
-    <img src="./imgs/respuesta-pass-prueba-unitaria.JPG"> 
+    <img src="./imgs/respuesta-pass-prueba-unitaria.JPG">
+4. Prueba ejemplo: Falla caso 1
+    <img src="./imgs/test-fail-caso.JPG">
+5. Prueba funcionalidad inicio sesion: Pasa todos los casos
+    <img src="./imgs/prueba-pass-iniciarSesion.JPG">
     

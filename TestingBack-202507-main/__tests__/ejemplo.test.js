@@ -20,7 +20,7 @@ import { suma } from "../src/utils/ejemplo.js";
 describe('Probar funcion suma...', ()=>{
     //definir los casos individuales de prueba
     it('Caso 1: suma correcta de numeros positivos', ()=>{
-        expect(suma(2, -3)).toBe(5);
+        expect(suma(2, 3)).toBe(5);
     });
 
     it('Caso 2: suma correcta de numero con cero', ()=>{

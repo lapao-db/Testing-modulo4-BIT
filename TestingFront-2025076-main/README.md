@@ -54,8 +54,22 @@ Este repositorio presenta la solución de una prueba técnica realizada en clase
 ## Autoría  
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
-- **Autor:** Luisa Castaño Vanegas
-- **GitHub:** [LuisaCastano40](https://github.com/LuisaCastano40)  
-- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/luisacastanovanegas/) 
+- **Autor:** Laura Paola Daza B.
+- **GitHub:** [lapao-db](https://github.com/lapao-db)  
+- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/laura-daza-buitrago-desarrollo-web/) 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+## Taller
+
+1. **Prueba ejemplo: Falla de prueba**
+
+    <img src="./public/karma-test-1-failure.JPG">
+
+2. **Prueba ejemplo: Pasa exitosamente prueba**
+
+    <img src="./public/karma-test-no-failure.JPG">
+
+3. **Prueba Servicio Inicio Sesión: Exitosa**
+
+    <img src="./public/karma-test-success-5specs.JPG">
